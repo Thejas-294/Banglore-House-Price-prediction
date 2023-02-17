@@ -1,0 +1,11 @@
+DepID,DepName
+1,HR
+2,UI
+3,Data Science
+4,Data Analysis
+5,Data Engineering
+6,FrontEnd Team
+7,BackEnd Team
+8,Payroll
+9,Testing
+10,Admin & Transportation
